@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Movie from './Movie'
 
 // TODO add a backup call to sample database call in case the API call fails
@@ -19,6 +20,13 @@ export default async function Home() {
           />
         ))}
       </div>
+=======
+
+export default function Home() {
+  return (
+    <main>
+      <h1>hello</h1>
+>>>>>>> 54618fb410bedb7679a5dbf6dbd27114f7623185
     </main>
   )
 }
