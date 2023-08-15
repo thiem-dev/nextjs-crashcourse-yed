@@ -1,4 +1,4 @@
-import Movie from './Movie'
+import Movie from './movie'
 
 // TODO add a backup call to sample database call in case the API call fails
 
