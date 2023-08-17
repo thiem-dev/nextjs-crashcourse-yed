@@ -1,5 +1,6 @@
 import Movie from './movie'
 
+// TODO: Add pagination to the grid
 // TODO add a backup call to sample database call in case the API call fails
 
 export default async function Home() {
