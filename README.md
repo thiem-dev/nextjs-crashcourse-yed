@@ -1,5 +1,6 @@
 # Overview
-This project was a quick app for pulling 
+This fetches data from Movie Database API and renders a grid of popular movies and individual movie page with overview and release status.
+
 Link to Vercel Deployment: https://nextjs-crashcourse-k5q2w60fo-business-thiem.vercel.app/ 
 
 
